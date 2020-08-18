@@ -85,9 +85,6 @@ with any dependencies.
 * [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up)
 * [git](https://git-scm.com/downloads)
 
-## Authors
-
-* @michaelkrukov - https://michaelkrukov.ru/
 
 ## Acknowledgments
 
